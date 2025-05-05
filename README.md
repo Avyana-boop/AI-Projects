@@ -1,3 +1,4 @@
+![Capture d'écran 2025-05-01 082013](https://github.com/user-attachments/assets/21a4b4e1-dfc1-4828-9c92-c14fa81b29a2)
 # AI-Projects
 Projects made with AI
 "use client"
