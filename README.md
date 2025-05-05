@@ -1,7 +1,7 @@
 https://i4b2ksf1fho07lbud.lite.vusercontent.net/ 
 ![Capture d'écran 2025-05-01 090912](https://github.com/user-attachments/assets/ab80643f-85b0-468c-a40b-d709f2bc316c)
-# AI-Projects
-Projects made with AI
+# Crypto-currency Dashboard
+I created an application that presents the news about digital currencies in a table in a decreasing way, where I can search and sort the data, and I used Groq to implement a dashboard design!
 "use client"
 
 import { useState } from "react"
